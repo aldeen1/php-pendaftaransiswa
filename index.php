@@ -72,7 +72,6 @@
                 <li>Pendaftaran Siswa Baru</li>
                 <div class="button-container">
                     <li><a href="./index.php">Home</a></li>
-                    <li><a href="./list-siswa.php">Pendaftar</a></li>
                 </div>
                 <div class="register">
                     <li><a href="./form-daftar.php">Daftar</a></li>
@@ -85,6 +84,7 @@
                 <h1>Raih cita cita mu</h1>
                 <h2>Daftar sekarang</h2>
                 <button><a href="./form-daftar.php">Daftar</a></button>
+                <button><a href="./form-login.php">Login</a></button>
             </div>
             <div class="right">
                 <img src="./src/—Pngtree—education language learning online on_15006336.png" alt="" width="100%">

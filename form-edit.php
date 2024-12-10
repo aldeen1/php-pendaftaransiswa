@@ -28,6 +28,17 @@ if( mysqli_num_rows($query) < 1 ){
 <head>
     <title>Formulir Edit Siswa | SMK Coding</title>
     <style>
+        body, html{
+            font-family: "Signika", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+            font-variation-settings:
+                "GRAD" 0;
+            width: 100%;
+            height: 100vh;
+            margin: 0;
+        }
         form{
             display:flex;
             justify-content: center;
